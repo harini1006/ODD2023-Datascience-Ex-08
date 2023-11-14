@@ -1,27 +1,28 @@
 # Ex-08-Data-Visualization-
-# AIM
+## DATE:
+## AIM
 To Perform Data Visualization on a complex dataset and save the data to a file.
 
-# EXPLANATION:
+## EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# ALGORITHM
-## STEP 1
+## ALGORITHM
+### STEP 1
 Read the given Data
 
-## STEP 2
+### STEP 2
 Clean the Data Set using Data Cleaning Process
 
-## STEP 3
+### STEP 3
 Apply Feature generation and selection techniques to all the features of the data set
 
-## STEP 4
+### STEP 4
 Apply data visualization techniques to identify the patterns of the data.
 
-# CODE AND OUTPUT:
+## CODE AND OUTPUT:
 ```
-NAME : R . JOYCE BEULAH
-REG NO : 212222230058
+NAME : HARINI V
+REG NO : 212222230044
 ```
 ```
   import matplotlib.pyplot as plt
@@ -327,5 +328,5 @@ plt.show()
 ```
 ![image](https://github.com/JoyceBeulah/ODD2023-Datascience-Ex-08/assets/118343698/78091e0a-cc8e-4105-9141-40f67c4ee72c)
 
-# RESULT:
+## RESULT:
 Hence the data visualization method for the given dataset applied successfully.
